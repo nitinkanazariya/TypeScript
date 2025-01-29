@@ -1,0 +1,5 @@
+[1]===>>> what is typeScrip
+==> typescript is supperset of js 
+==> in this typescript type declare staticallly
+==> innovate in 2010
+==> advantage of typesript -- secure code, faster debbuging, throw type error when type is not matching     
